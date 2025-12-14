@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+.terraform.tfstate.lock.info
